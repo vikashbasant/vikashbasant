@@ -17,7 +17,7 @@
   
 
 <p align="center">
-  <img src="https://github.com/vikashbasant/vikashbasant/blob/main/vikash-info.png" height="195" width="400">
+  <img src="https://github.com/vikashbasant/vikashbasant/blob/main/vikash-info.png" height="194" width="500">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true" alt="vikashbasant">
 </p>
 <p algin="center">
