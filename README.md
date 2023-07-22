@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 algin="center">Hi there, I'm Vikash Kumar Basant👋</h1>
-- 💬 Ask me about ...<strong>Core Java, OOP's concept, Exception Handling, data structure, Algorithm, Spring Boot, Hibernate </strong>
-- 🌱 I’m currently learning ... <storng>Spring Boot & Applications </storng>
-- 📫 How to reach me: ...<a href="https://www.linkedin.com/in/basantvikash360/" target="_blank">Vikash Kumar Basant</a>
-- ⚡ Fun fact: ...In prompt engineering, the thrill of quick problem-solving and on-the-fly innovation never ceases to amaze me. It's like a high-speed rollercoaster ride of creativity and technical wizardry! 🎢🚀
+  - 💬 Ask me about ...<strong>Core Java, OOP's concept, Exception Handling, data structure, Algorithm, Spring Boot, Hibernate </strong>
+  - 🌱 I’m currently learning ... <storng>Spring Boot & Applications </storng>
+  - 📫 How to reach me: ...<a href="https://www.linkedin.com/in/basantvikash360/" target="_blank">Vikash Kumar Basant</a>
+  - ⚡ Fun fact: ...In prompt engineering, the thrill of quick problem-solving and on-the-fly innovation never ceases to amaze me. It's like a high-speed rollercoaster ride of creativity and technical wizardry! 🎢🚀
 
 <p algin="center">
   <img src="" alt="Vikash Basant">
