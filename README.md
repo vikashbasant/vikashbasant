@@ -16,11 +16,11 @@
   
 
 <p algin="center">
-  <img src="![vikash-info](https://github.com/vikashbasant/vikashbasant/assets/49556058/96f5f166-7efa-45d2-bde3-712548d1d6f8)
-" alt="Vikash Basant">
+  <img src="![vikash-info](https://github.com/vikashbasant/vikashbasant/assets/49556058/96f5f166-7efa-45d2-bde3-712548d1d6f8)" alt="Vikash Basant">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true" alt="vikashbasant">
 </p>
 <p algin="center">
-  <a href="https://www.linkedin.com/in/basantvikash360/" target="_blank"><img src="[https://icons8.com/icon/xuvGCOXi8Wyg/linkedin](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" height="30" width="30>LinkedIn</a>
+  <a href="https://www.linkedin.com/in/basantvikash360/" target="_blank">
+    <img src="![linkedin-112](https://github.com/vikashbasant/vikashbasant/assets/49556058/3f2960b6-da05-4a82-aa4b-88a9d7a9d3b3)" height="30" width="30>LinkedIn</a>
   
 </p>
