@@ -5,7 +5,7 @@
 -->
 
 
-<h1 algin="center">Hi there, I'm Vikash Kumar Basant👋</h1>
+<h1 align="center">Hi there, I'm Vikash Kumar Basant👋</h1>
 
 - 🌱 I’m currently learning ... <storng>Spring Boot & Applications </storng> 
 - 💬 Ask me about ... <strong>Core Java, OOP's concept, Exception Handling, data structure, Algorithm, Spring Boot, Hibernate </strong>
@@ -15,7 +15,7 @@
 
   
 
-<p algin="center">
+<p align="center">
   <img src="![vikash-info](https://github.com/vikashbasant/vikashbasant/assets/49556058/96f5f166-7efa-45d2-bde3-712548d1d6f8)" alt="Vikash Basant">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true" alt="vikashbasant">
 </p>
