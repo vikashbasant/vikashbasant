@@ -22,6 +22,6 @@
 </p>
 <p algin="center">
   <a href="https://www.linkedin.com/in/basantvikash360/" target="_blank">
-    <img src="![linkedin-112](https://github.com/vikashbasant/vikashbasant/assets/49556058/3f2960b6-da05-4a82-aa4b-88a9d7a9d3b3)" height="30" width="30>LinkedIn</a>
+    <img src="" height="30" width="30>LinkedIn</a>
   
 </p>
