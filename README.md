@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi there, I'm Vikash Kumar Basant👋</h1>
-<img src="https://github.com/vikashbasant/vikashbasant/blob/main/vikash-info.png" alt="Vikash Basant">
+
 
 - 🌱 I’m currently learning ... <storng>Spring Boot & Applications </storng> 
 - 💬 Ask me about ... <strong>Core Java, OOP's concept, Exception Handling, data structure, Algorithm, Spring Boot, Hibernate </strong>
@@ -17,6 +17,7 @@
   
 
 <p align="center">
+  <img src="https://github.com/vikashbasant/vikashbasant/blob/main/vikash-info.png" height="200" width="250">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true" alt="vikashbasant">
 </p>
 <p algin="center">
