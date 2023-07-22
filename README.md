@@ -2,7 +2,7 @@
 
 <!--
 **vikashbasant/vikashbasant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h1 algin="center">Hi there, I'm Vikash Kumar Basant👋</h1>
   - 💬 Ask me about ...<strong>Core Java, OOP's concept, Exception Handling, data structure, Algorithm, Spring Boot, Hibernate </strong>
