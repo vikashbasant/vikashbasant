@@ -20,8 +20,4 @@
   <img src="https://github.com/vikashbasant/vikashbasant/blob/main/vikash-info.png" height="194" width="500">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true" alt="vikashbasant">
 </p>
-<p algin="center">
-  <a href="https://www.linkedin.com/in/basantvikash360/" target="_blank">
-    <img src="https://github.com/vikashbasant/vikashbasant/commit/8361f2c83ea44539d954a080ace06f60c1b27426" height="30" width="30></a>
-  
-</p>
+
