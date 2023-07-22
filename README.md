@@ -16,7 +16,7 @@
   
 
 <p align="center">
-  <img src="![vikash-info](https://github.com/vikashbasant/vikashbasant/assets/49556058/96f5f166-7efa-45d2-bde3-712548d1d6f8)" alt="Vikash Basant">
+  <img src="https://github.com/vikashbasant/vikashbasant/blob/main/vikash-info.png" alt="Vikash Basant">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true" alt="vikashbasant">
 </p>
 <p algin="center">
