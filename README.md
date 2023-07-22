@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true" alt="vikashbasant">
 </p>
 <p algin="center">
-  <a href="" target="_blank"><img src="" height="30" width="30></a>
+  <a href="https://www.linkedin.com/in/basantvikash360/" target="_blank"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" height="30" width="30></a>
   
 </p>
