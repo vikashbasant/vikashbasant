@@ -1,27 +1,77 @@
-# 💫 About Me:
-Backend Java Developer with 4+ years of experience designing and building APIs, microservices, and scalable backend systems. My work centers around Java, Spring Boot, Hibernate, JPA, MySQL, MongoDB, Redis, Kafka, Docker, Kubernetes, and AWS.<br>I focus on clean architecture, performance tuning, and building systems that are easy to maintain and extend. I enjoy exploring new tools and working on projects that solve real problems.
+<h1 align="center">Hi, I'm Vikash Kumar Basant 👋</h1>
+<h3 align="center">Senior Java Backend Developer · FinTech & Payments · Spring AI</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/basantvikash360"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:basantvikash360@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basantvikash360@gmail.com) 
+## 💫 About me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikashbasant&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikashbasant&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashbasant&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🏦 5 years building Java / Spring Boot backends for **banking, FinTech and investment post-trade** systems
+- 💸 Currently working on **SWIFT payment messaging** (ISO 20022 MX and MT103) at **BlackRock** (Aladdin Post Trade)
+- 🤖 Building **AI features on the JVM with Spring AI**: RAG, embeddings and LLM-backed APIs
+- 🔐 Earlier: gold loan platform with Razorpay payments and OTP security; Bandhan Bank account-opening backends
+- 📍 Gurugram, India
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikashbasant&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 Featured project
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### [ISO 20022 AI Assistant](https://github.com/vikashbasant/iso20022-ai-assistant)
+Spring Boot + Spring AI service that **validates SWIFT MT103s**, **converts them to ISO 20022 pacs.008**, and uses
+**RAG** to explain messages and answer MT/MX questions. Rules decide, the LLM explains.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vikashbasant&limit=5&theme=dark&combine_all_yearly_contributions=true)
+`Java 21` `Spring Boot 3` `Spring AI` `RAG` `Vector store` `Redis` `Kafka` `Docker` `JUnit 5` `GitHub Actions`
 
----
-[![](https://visitcount.itsvg.in/api?id=vikashbasant&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤖 AI / GenAI
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-4B0082?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat-square" />
+</p>
+
+## 💻 Tech stack
+
+**Backend:**
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" />
+
+**Data & messaging:**
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+
+**Payments domain:**
+<img src="https://img.shields.io/badge/SWIFT%20MT103-1F3A5F?style=flat-square" />
+<img src="https://img.shields.io/badge/ISO%2020022%20(MX)-1F3A5F?style=flat-square" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
+
+**DevOps & tools:**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashbasant&layout=compact&hide_border=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vikashbasant&hide_border=true" height="160" />
+</p>
+
+<p align="center"><img src="https://visitcount.itsvg.in/api?id=vikashbasant&label=Profile%20Views&color=0&pretty=true" /></p>
