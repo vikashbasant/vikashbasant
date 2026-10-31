@@ -67,11 +67,14 @@ Spring Boot + Spring AI service that **validates SWIFT MT103s**, **converts them
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashbasant&show_icons=true&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashbasant&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikashbasant&theme=default" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vikashbasant&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vikashbasant&theme=default" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikashbasant&theme=default" height="180" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vikashbasant&hide_border=true" height="170" />
 </p>
 
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=vikashbasant&label=Profile%20Views&color=0&pretty=true" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vikashbasant&label=Profile%20views&color=0e75b6&style=flat" /></p>
